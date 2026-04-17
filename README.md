@@ -1,6 +1,6 @@
 # GTO Loadouts
 
-Arma 3 Loadout-Dateien fuer German Tactical Ops.
+Arma 3 Loadout-Dateien für German Tactical Ops.
 
 ## Aktueller Stand
 
@@ -33,7 +33,7 @@ Alle aktualisierten Loadouts basieren auf dem **Base_Rifleman** Standard:
 - `ItemAndroid` x1 (aus Uniform verschoben)
 - `rhsusf_mag_17Rnd_9x19_JHP` x1 (aus Uniform verschoben, nur bei Loadouts mit Pistole)
 
-### Bereits aktualisiert
+### Bereits automatisch aktualisiert
 
 | Loadout | Waffe | Bandagen | Besonderheit |
 |---|---|---|---|
@@ -49,9 +49,9 @@ Alle aktualisierten Loadouts basieren auf dem **Base_Rifleman** Standard:
 | SL | MCC | 33 | Extra: MapTools |
 | Squad-Medic_ARFR | MCC | 35 | |
 
-### Noch manuell anzupassen
+### Bereits manuell aktualisiert
 
-Diese Loadouts haben andere Waffensysteme und muessen manuell auf den neuen Medic/Uniform/Vest-Standard gebracht werden:
+Diese Loadouts haben andere Waffensysteme und müssen manuell auf den neuen Medic/Uniform/Vest-Standard gebracht werden:
 
 | Loadout | Aktuelle Waffe | Grund |
 |---|---|---|
